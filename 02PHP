@@ -1,0 +1,8 @@
+<?php 
+ 
+$nome = "Renato";
+
+Echo "Olá, $nome! ";
+
+ 
+?>
